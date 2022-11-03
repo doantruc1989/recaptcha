@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.20",
+    "querystring": "^0.2.1"
+  },
+  "name": "recapcha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
